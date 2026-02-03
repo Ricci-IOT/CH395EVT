@@ -252,6 +252,7 @@
 | CH395A-EVT-R0.PDF | CH395A 评估板原理图 |
 | CH395F-EVT-R0.PDF | CH395F 评估板原理图 |
 | CH395P-EVT-R0.PDF | CH395P 评估板原理图 |
+| CH395DS1_CN.PDF | CH395F_以太网控制器规格书 |
 
 ---
 
